@@ -1,16 +1,21 @@
-## Hi there 👋
+🏆 À propos de moi
 
-<!--
-**tomfosse/tomfosse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Tom Fossé, un développeur passionné par le développement mobile & applicatif. J'aime créer des solutions innovantes et résoudre des problèmes techniques.
 
-Here are some ideas to get you started:
+🛠️ Compétences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Langages : 
+![image]({https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665})
+
+
+📚 Frameworks & Bibliothèques : [Liste des outils et frameworks]
+
+🔧 Outils & Plateformes : [Liste des logiciels et plateformes utilisées]
+
+📩 Me Contacter
+
+📧 Email : [Votre Email]
+
+💼 LinkedIn : [Lien vers votre profil]
+
+🌍 Portfolio : [Lien vers votre site personnel]
