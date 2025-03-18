@@ -37,8 +37,6 @@ Je suis Tom Fossé, un développeur passionné par le développement mobile & ap
   <img src="https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white">
 </div>
 <br>
-📩 Me Contacter
-<br>
 📧 Email : tomfosse.contact@gmail.com
 <br>
 💼 LinkedIn : [[Tom Fossé]](https://www.linkedin.com/in/tom-foss%C3%A9-632286322/)
