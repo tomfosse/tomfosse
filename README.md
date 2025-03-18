@@ -41,4 +41,4 @@ Je suis Tom Fossé, un développeur passionné par le développement mobile & ap
 <br>
 📧 Email : tomfosse.contact@gmail.com
 <br>
-💼 LinkedIn : [Tom Fossé](https://www.linkedin.com/in/tom-foss%C3%A9-632286322/)
+💼 LinkedIn : https://www.linkedin.com/in/tom-foss%C3%A9-632286322/
