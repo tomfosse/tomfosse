@@ -43,27 +43,9 @@ Some of my pinned projects:
 - **Epytodo** — REST API, authentication, SQL & TypeScript
 - **Chocolatine** — CI/CD pipelines with GitHub Actions
 - **Duo Stumper** — Intensive C & algorithmic challenges
-- **Epitech Graphic Charter** — Visual resources for Epitech projects
 
 ---
 
-## 🚀 Current interests
-
-```text
-Backend Engineering
-       ↓
-     Docker
-       ↓
-   Kubernetes
-       ↓
-    Argo CD
-       ↓
- Infrastructure
-```
-
-Currently exploring **Kubernetes, GitOps, CI/CD, backend architecture, infrastructure automation and cloud-native technologies**.
-
----
 
 <div align="center">
 
