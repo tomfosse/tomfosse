@@ -12,55 +12,6 @@ Through my professional experience, I've had the opportunity to work with **Kube
 
 ---
 
-## 🚀 What I enjoy working on
-
-```text
-                     APPLICATION
-                          │
-                          ▼
-                   ┌─────────────┐
-                   │   BACKEND   │
-                   │             │
-                   │ TypeScript  │
-                   │  AdonisJS   │
-                   │ REST APIs   │
-                   └──────┬──────┘
-                          │
-                          ▼
-                   ┌─────────────┐
-                   │  DATABASE   │
-                   │             │
-                   │ PostgreSQL  │
-                   │     SQL     │
-                   └──────┬──────┘
-                          │
-                          ▼
-                   ┌─────────────┐
-                   │   DEVOPS    │
-                   │             │
-                   │   Docker    │
-                   │    CI/CD    │
-                   │   GitHub    │
-                   │   Actions   │
-                   └──────┬──────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │INFRASTRUCTURE │
-                  │               │
-                  │  Kubernetes   │
-                  │    Argo CD    │
-                  │    Ansible    │
-                  │     Linux     │
-                  └───────────────┘
-```
-
-I particularly enjoy understanding the **entire lifecycle of an application**:
-
-**Build → Test → Containerize → Deploy → Operate → Improve**
-
----
-
 # ⚙️ Backend Engineering
 
 Backend development is one of the areas I enjoy the most.
